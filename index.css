@@ -1,0 +1,32 @@
+#about-me {
+   background: radial-gradient(#56ab2f, #a8e063);
+
+
+}
+
+
+#projects {
+   background: radial-gradient(#56ab2f, #a8e063);
+   margin-top: 5;
+}
+
+#name {
+   background: whitesmoke;
+   border-radius: 15px;
+   text-align: center;
+   font-weight: 400;
+   font-family: font-family: 'Kanit', sans-serif;;
+}
+
+#name1{
+   font-family: font-family: 'Lato', sans-serif;
+   font-size: 15px;
+   font-style: italic;
+   color: white;
+
+}
+
+#Social{
+      color: white;
+      height: 20px;
+}
